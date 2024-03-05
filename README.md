@@ -122,40 +122,41 @@ double nota_final() {
 }
 ```
 
-## Política de Atrasos
+## Política de Cupones y Atrasos
 
-La formula de atrasos es la siguiente:
+> [!WARNING] Ojo
+> Luego del fin del plazo oficial de la tarea, no se asegura el apoyo del equipo docente para resolver dudas.
 
-La politica de atrasos en tareas es lineal. Por cada dia de atraso se restaran 7 decimas de la nota **maxima** de la tarea. Esto significa que es un descuento suave donde se aplica `min(nota, 7 - descuento)`.
+Se puede optar por **2 cupones de días adicionales de plazo** en el semestre, y
+en la T0 no se podrá usar cupones.
+No se aplicarán automáticamente, deben ser solicitados en un formulario que se enviará luego de la publicación de la tarea.
 
-Además cada alumno tendra 2 **cupones de atraso** que permiten eliminar un dia de atraso **calendario** de la tarea.
+Además, existe un **descuento incremental** por atraso a la nota inicial obtenida, desde la hora de entrega más los días de los cupones empleados.
+La formula de descuento por atraso es la siguiente:
 
-Es importante mencionar que luego del fin del plazo oficial de la tarea, no se asegura el apoyo del equipo docente para resolver dudas. (Normalmente hay, pero el ritmo disminuye)
+$$
+d \begin{cases}
+  0   & \text{si se entrega dentro del plazo} \\
+  0.5 & \text{si se con a lo más 3 horas de atraso} \\
+  2   & \text{si se con a lo más 24 horas de atraso} \\
+  6  & \text{en otro caso} \\
+\end{cases}
+$$
 
-```c++
-  double nota_con_atraso(double nota, int dias_de_atraso, int cupones_usados){
-    int atraso_efectivo = dias_de_atraso - cupones_usados;
+La nota final de la tarea sería $T_f = \max(1, T_i - d)$, donde $T_i$ es la nota inicial obtenida con los casos de prueba.
+El descuento es directo a la nota obtenida, y no a la nota máxima.
+Por ejemplo, si se obtiene 6 en la tarea como nota inicial, pero con atraso de 7 horas (entre 3 y 24), la nota final sería $6 - 2 = 4$.
 
-    if (atraso_efectivo > 3) { return 1.0; }
-
-    return min(nota, 7.0 - 0.7 * atraso_efectivo);
-  }
-```
-
-Ejemplos:
-
-1. La tarea se entrega el 10, pero entrego el 12:
-
-   1. Si no uso cupones. La nota maxima obtenible es `7 - 0.7 * 2 = 5.6`
-   2. Si uso 1 cupon. La nota maxima obtenible es `7 - 0.7 * 1 = 6.3`
-   3. Si uso 2 cupones. La nota maxima obtenible es `7 - 0.7 * 0 = 7.0`
-
-2. La tarea se entrega el 10, pero entrego el 15
-   1. Si no uso cupones. La nota maxima obtenible es `1.0`
-   2. Si uso 1 cupon. La nota maxima obtenible es `7 - 0.7 * (5 - 1) = 4.2`
-   3. Si uso 2 cupones. La nota maxima obtenible es `7 - 0.7 * (5 - 2) = 4.9`
-
-Esto es independiente si algún dia de atraso es feriado o fin de semana.
+> [!TIP] Importante
+> Estas comodidades están en mente para que puedan planificar bien su trabajo a lo largo del semestre,
+> y las fechas de las tareas buscan tener el mejor balance de carga a lo largo del semestre.
+>
+> Por esto, recomendamos planificar bien el uso de cupones, tener en mente la política de atraso,
+> leer los enunciados lo antes posible, y realizar las preguntas con anticipación.
+>
+> No se dará plazo adicional, a menos en casos excepcionales.
+>
+> **Cualquier cosa contactar a coordinación o a bienestar.**
 
 ## Política de integridad académica
 
