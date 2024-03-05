@@ -124,8 +124,7 @@ double nota_final() {
 
 ## Política de Cupones y Atrasos
 
-> [!WARNING] Ojo
-> Luego del fin del plazo oficial de la tarea, no se asegura el apoyo del equipo docente para resolver dudas.
+**Luego del fin del plazo oficial de la tarea, no se asegura el apoyo del equipo docente para resolver dudas**.
 
 Se puede optar por **2 cupones de días adicionales de plazo** en el semestre, y
 en la T0 no se podrá usar cupones.
@@ -141,7 +140,6 @@ La nota final de la tarea sería $T_f = \max(1, T_i - d)$, donde $T_i$ es la not
 El descuento es directo a la nota obtenida, y no a la nota máxima.
 Por ejemplo, si se obtiene 6 en la tarea como nota inicial, pero con atraso de 7 horas (entre 3 y 24), la nota final sería $6 - 2 = 4$.
 
-> [!TIP] Importante
 > Estas comodidades están en mente para que puedan planificar bien su trabajo a lo largo del semestre,
 > y las fechas de las tareas buscan tener el mejor balance de carga a lo largo del semestre.
 >
