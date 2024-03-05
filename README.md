@@ -24,7 +24,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 - Las clases serán subidas a [Clases](./Clases), y las ayudantías a [Ayudantías](./Ayudantías), los enunciados de las tareas a [Tareas](./Tareas), y las pautas de las interrogaciones a [Pautas](./Pautas).
 - Está subido y se podrá subir a lo largo del semestre [Material Complementario](#material-complementario), además de [Guías](./Guías), [Libros](./Libros), y [Código](./Código) de apoyo.
 - Podrán además encontrar material de semestres anteriores en [Semestres Anteriores](./Semestres%20Anteriores) y en [Pautas Anteriores](./Pautas%20Anteriores).
-- El medio de preguntas oficial del curso es GitHub Discussions. AÑADIR LINK
+- El medio oficial para preguntas del curso es [GitHub Discussions](https://github.com/IIC2133-PUC/2024-1/discussions). Puedes ahí escribir preguntas de materia, tareas, u otras cosas relacionadas al curso.
 
 ## Equipo
 
