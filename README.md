@@ -131,19 +131,13 @@ Se puede optar por **2 cupones de días adicionales de plazo** en el semestre, y
 en la T0 no se podrá usar cupones.
 No se aplicarán automáticamente, deben ser solicitados en un formulario que se enviará luego de la publicación de la tarea.
 
-Además, existe un **descuento incremental** por atraso a la nota inicial obtenida, desde la hora de entrega más los días de los cupones empleados.
-La formula de descuento por atraso es la siguiente:
+Además, existe un **descuento incremental** por atraso a la nota inicial obtenida, desde la hora de entrega más los días de los cupones empleados, de la siguiente manera:
 
-$$
-d \begin{cases}
-  0   & \text{si se entrega dentro del plazo} \\
-  0.5 & \text{si se con a lo más 3 horas de atraso} \\
-  2   & \text{si se con a lo más 24 horas de atraso} \\
-  6  & \text{en otro caso} \\
-\end{cases}
-$$
+- 5 décimas menos si se entrega con a lo más 3 horas de atraso.
+- 2 puntos menos si se entrega con a lo más 24 horas de atraso.
 
-La nota final de la tarea sería $T_f = \max(1, T_i - d)$, donde $T_i$ es la nota inicial obtenida con los casos de prueba.
+Si la tarea se entrega con más de 24 horas de atraso, la nota final será 1.
+La nota final de la tarea sería $T_f = \max(1, T_i - d)$, donde $T_i$ es la nota inicial obtenida sin considerar atraso.
 El descuento es directo a la nota obtenida, y no a la nota máxima.
 Por ejemplo, si se obtiene 6 en la tarea como nota inicial, pero con atraso de 7 horas (entre 3 y 24), la nota final sería $6 - 2 = 4$.
 
@@ -155,7 +149,6 @@ Por ejemplo, si se obtiene 6 en la tarea como nota inicial, pero con atraso de 7
 > leer los enunciados lo antes posible, y realizar las preguntas con anticipación.
 >
 > No se dará plazo adicional, a menos en casos excepcionales.
->
 > **Cualquier cosa contactar a coordinación o a bienestar.**
 
 ## Política de integridad académica
