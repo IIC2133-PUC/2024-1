@@ -30,11 +30,13 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 ### Profesores
 
-| Nombre           | Sección | Email        |
-| :--------------- | :------ | :----------- |
-| Sebastián Bugedo | 1       | bugedo@uc.cl |
-| Mario Droguett   | 2       | mario@uc.cl  |
-| Eduardo Bustos   | 3       | eb@uc.cl     |
+| Nombre           | Sección | Email                 |
+| :--------------- | :------ | :-------------------- |
+| Diego Arroyuelo  | 1       | diego.arroyuelo@uc.cl |
+| Mario Droguett   | 2       | mario@uc.cl           |
+| Eduardo Bustos   | 3       | eb@uc.cl              |
+| Sebastián Bugedo | 4       | bugedo@uc.cl          |
+
 
 ### Ayudantes
 
