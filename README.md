@@ -41,7 +41,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 |                  Rol | Nombre                       | GitHub                                                     | Correo                   |
 | -------------------: | ---------------------------- | ---------------------------------------------------------- | ------------------------ |
-|          Coordinador | Carlos Paredes               | [@CarloGauss33](https://github.com/CarloGauss33)           | carlos@paredesrobles.com |
+|          Coordinador | Carlos Paredes               | [@CarloGauss33](https://github.com/CarloGauss33)           | cparedesr@uc.cl          |
 |      SubCoordinadora | Cata Alamos                  | [@CataAlamos](https://github.com/CataAlamos)               | catalina.alamos@uc.cl    |
 | Coordinadora Cátedra | Dafne Arriagada              | [@Dafnemami](https://github.com/Dafnemami)                 | dafne.arriagada@uc.cl    |
 |   Coordinador Tareas | Benja Vicente                | [@benjavicente](https://github.com/benjavicente)           | benjavicente@uc.cl       |
