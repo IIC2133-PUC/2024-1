@@ -37,7 +37,6 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Eduardo Bustos   | 3       | eb@uc.cl              |
 | Sebastián Bugedo | 4       | bugedo@uc.cl          |
 
-
 ### Ayudantes
 
 |                  Rol | Nombre                       | GitHub                                                     | Correo                   |
@@ -80,22 +79,22 @@ El curso consta de una parte teórica, evaluada mediante evaluaciones escritas (
 
 Habrá 3 interrogaciones, donde se evaluarán los aspectos más teóricos del contenido.
 
-| Evaluación | Fecha |
-| :--------- | :---- |
-| I1         |       |
-| I2         |       |
-| I3         |       |
+| Evaluación | Fecha                     |
+| :--------- | :------------------------ |
+| I1         | viernes 10 de mayo, 17:30 |
+| I2         | martes 18 de junio, 17:30 |
+| I3         | martes 9 de julio, 8:20   |
 
 ### Tareas
 
 Habrá 4 tareas de programación en C, donde deberán resolver un problema complejo y analizarlo en un informe escrito.
 
-| Evaluación | Fecha Publicación | Fecha Entrega |
-| :--------- | :---------------- | :------------ |
-| Tarea 0    |                   |               |
-| Tarea 1    |                   |               |
-| Tarea 2    |                   |               |
-| Tarea 3    |                   |               |
+| Evaluación | Fecha Publicación     | Fecha Entrega         |
+| :--------- | :-------------------- | :-------------------- |
+| Tarea 0    | miércoles 13 de marzo | miércoles 27 de marzo |
+| Tarea 1    | miércoles 10 de abril | miércoles 24 de abril |
+| Tarea 2    | lunes 13 de mayo      | lunes 27 de mayo      |
+| Tarea 3    | lunes 3 de junio      | viernes 21 de junio   |
 
 La nota final del curso se calcula de la siguiente manera:
 
