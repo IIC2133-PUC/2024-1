@@ -62,7 +62,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 |                      | Alexander Infanta            | [@Aleksandsk](https://github.com/Aleksandsk)               |
 |           Corrección | Estefania Pakarati           | [@Pakarati](https://github.com/Pakarati)                   |
 |                      | Lucía Fardella               | [@lfardella](https://github.com/lfardella)                 |
-|                      | Benjamín Aguila              | [@benjaaguila](https://github.com/benjaaguila)             |
+|                      | Javiera Larraín             | [@javil13](https://github.com/javil13)             |
 |                      | Vicente Thomas               | [@vicentethomas](https://github.com/vicentethomas)         |
 |                      | Felipe Espinoza              | [@FelipeEspinozaS](https://github.com/FelipeEspinozaS)     |
 |                      | Martín Illanes               | [@illanes00](https://github.com/illanes00)                 |
