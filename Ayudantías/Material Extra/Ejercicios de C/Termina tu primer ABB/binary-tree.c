@@ -12,7 +12,21 @@
 con errores o incompleto, cuya ubicación puedes ver más 
 a menos por ciertos comentarios (antecedidos por "!!") 
 que hemos dejado para ti. También, encontrarás algunos 
-otros útiles para reforzar tu aprendizaje.*/
+otros útiles para reforzar tu aprendizaje.
+
+Para que tengas un contexto, este código al correr crea
+un ABB con 7 nodos y luego lo imprime. El ABB construido
+es el que podrás ver en el archivo "binary-tree-final.png"
+que dentro de la carpeta de este ejemplo en el repositorio.
+
+*/
+
+/* CÓMO SABER SI LO RESOLVÍ TODO?
+ - No hay errores de compilación.
+ - No hay errores de ejecución.
+ - No hay errores de memoria.
+ - Se imprime el árbol correctamente.
+*/
 
 /* DISCLAIMER
  Este código NO está modularizado.
