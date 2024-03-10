@@ -18,7 +18,6 @@ Para que tengas un contexto, este código al correr crea
 un ABB con 7 nodos y luego lo imprime. El ABB construido
 es el que podrás ver en el archivo "binary-tree-final.png"
 que dentro de la carpeta de este ejemplo en el repositorio.
-
 */
 
 /* CÓMO SABER SI LO RESOLVÍ TODO?
