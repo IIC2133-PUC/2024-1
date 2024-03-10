@@ -18,6 +18,9 @@ Para que tengas un contexto, este código al correr crea
 un ABB con 7 nodos y luego lo imprime. El ABB construido
 es el que podrás ver en el archivo "binary-tree-final.png"
 que dentro de la carpeta de este ejemplo en el repositorio.
+
+Obs: revisa la función printTree entregada para que no 
+te confundas al ver "(xx)"
 */
 
 /* CÓMO SABER SI LO RESOLVÍ TODO?
@@ -94,7 +97,7 @@ void printTree(treeNode * rootNode) {
     printf("   (%i)        (%i)  \n", pCurrentNode->left->value, pCurrentNode->right->value);
     printf("(%i)   (%i) (%i)   (xx)   \n", pCurrentNode->left->left->value, pCurrentNode->left->right->value, pCurrentNode->right->left->value);
     printf("             (%i)    \n",  pCurrentNode->right->left->right->value);
-    // (xx) -> No es un nodo, se muestra solo para noten que allí no hay nada.
+    // (xx) -> No es un nodo, solo se muestra para favorecer la visualización de un árbol en el print.
 
 }
 
