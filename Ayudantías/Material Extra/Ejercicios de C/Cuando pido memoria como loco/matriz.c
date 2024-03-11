@@ -6,8 +6,9 @@ Este código crea una matriz de estructuras Celda, donde cada celda
 de la matriz contiene un struct Celda con los enteros x, y. Luego, 
 asigna valores a cada celda de la matriz y los imprime en la consola. 
 Finalmente, libera la memoria asignada para la matriz y sus filas.
-Lamentablemente el código tienes problemas en dos partes indicadas en 
-los comentarios que deberas arreglar lograr lo pedido.
+Lamentablemente el código tiene problemas en dos partes indicadas 
+con comentarios, los que deberas arreglar para que el programa funcione.
+Solo deberas cambiar las partes indicadas.
 
 Para compilar:
 gcc matriz.c -o matriz
