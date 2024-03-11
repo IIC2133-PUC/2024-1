@@ -2,13 +2,12 @@
 #include <stdlib.h>
 
 /*
-Este código crea una matriz de estructuras Celda, donde cada celda
-de la matriz contiene un struct Celda con los enteros x, y. Luego, 
-asigna valores a cada celda de la matriz y los imprime en la consola. 
-Finalmente, libera la memoria asignada para la matriz y sus filas.
-Lamentablemente el código tiene problemas en dos partes indicadas 
-con comentarios, los que deberas arreglar para que el programa funcione.
-Solo deberas cambiar las partes indicadas.
+Este código crea una matriz en donde cada celda contiene justamente
+un struct llamado Celda, donde sus atributos son los enteros x, y. 
+Luego, asigna valores a cada celda de la matriz y los imprime en la 
+consola. Finalmente, libera la memoria asignada para la matriz y sus 
+filas. Lamentablemente el código tiene problemas en dos partes indicadas,
+los que deberas arreglar para que el programa funcione. 
 
 Para compilar:
 gcc matriz.c -o matriz
@@ -18,7 +17,7 @@ Para ejecutar:
 
 */
 
-// Definición de la estructura Celda, que contiene dos enteros, x e y.
+// Definición del struct Celda, que contiene dos enteros, x e y.
 // NO CAMBIAR
 typedef struct celda_t {
     int x;
@@ -48,7 +47,7 @@ int main(int argc, char **argv) {
         }
     }
 
-    //    AQUI DEBEN AGREGAR COMPLETAR EL printf() PARA IMPRIMIR LA MATRIZ PARA OBTENERLA DE LA SIGUIENTE FORMA:
+    //    AQUI DEBES COMPLETAR EL printf() PARA IMPRIMIR LA MATRIZ DE LA SIGUIENTE FORMA:
     //     0 , 0 | 0 , 1 | 0 , 2 |
     //     1 , 0 | 1 , 1 | 1 , 2 |
     //     2 , 0 | 2 , 1 | 2 , 2 |
@@ -69,6 +68,8 @@ int main(int argc, char **argv) {
     //    Se libera la memoria asignada para la matriz
     //    NO CAMBIAR
     free(Matriz);
+
+    return 0; // Buena practica
 }
 
 
