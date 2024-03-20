@@ -17,4 +17,5 @@
 - [Cápsula BST en C](https://youtu.be/j9W1qKCvFRE)
 - [Cápsula Tablas de Hash en C](https://youtu.be/P1DOE8W_RD4)
 - [Cápsula MinHeap en C](https://youtu.be/LYe67zvL9vY)
-
+## Animaciones
+- [Mergesort](https://github.com/)
