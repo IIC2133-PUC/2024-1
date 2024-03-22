@@ -18,3 +18,10 @@ Se actualizó el ejemplo de la diapo 11, donde las funciones main() en cada caso
 
 
 ### Insertion + Merge Sort
+
+#### Material extra
+- [Repositorio talleres a.k.a. muchas cápsulas](https://github.com/IIC2133-PUC/Talleres)
+
+De las anteriores, recomendamos para T0:
+- [Cápsula estructuras básicas de C](https://www.youtube.com/watch?v=UMeK8mr3Nyg)
+- [Cápsula memoria en C](https://www.youtube.com/watch?v=tu1nphxqYyI)
