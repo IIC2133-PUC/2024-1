@@ -31,3 +31,4 @@ De las anteriores, recomendamos para T0:
 #### Quicksort
 
 - [Link](https://youtu.be/khHI49RlkEM) a la cápsula.
+- [Apuntes] utlizados en la cáspula (que no son el ppt jj )
