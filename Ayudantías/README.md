@@ -32,3 +32,7 @@ De las anteriores, recomendamos para T0:
 
 - [Link](https://youtu.be/khHI49RlkEM) a la cápsula.
 - [Apuntes](https://github.com/IIC2133-PUC/2024-1/tree/main/Ayudant%C3%ADas/Material%20Extra/Quicksort) utlizados en la cáspula (que no son el ppt jj)
+
+
+### Heaps y Ordenamiento Lineal
+
