@@ -129,7 +129,7 @@ double nota_final() {
 
 Se puede optar por **2 cupones de días adicionales de plazo** en el semestre, y
 en la T0 no se podrá usar cupones.
-No se aplicarán automáticamente, deben ser solicitados en un formulario que se enviará luego de la publicación de la tarea.
+No se aplicarán automáticamente, deben ser solicitados en un formulario que se enviará luego de la publicación de la tarea, cuyo plazo de edición, es el plaxo máximo que se puede optar.
 
 Además, existe un **descuento incremental** por atraso a la nota inicial obtenida, desde la hora de entrega más los días de los cupones empleados, de la siguiente manera:
 
