@@ -11,9 +11,10 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
   - [Profesores](#profesores)
   - [Ayudantes](#ayudantes)
 - [Evaluaciones](#evaluaciones)
+  - [Hoja de Notas](#hoja-de-notas)
   - [Evaluaciones Escritas](#evaluaciones-escritas)
   - [Tareas](#tareas)
-- [Política de Atrasos](#política-de-atrasos)
+- [Política de Cupones y Atrasos](#política-de-cupones-y-atrasos)
 - [Política de integridad académica](#política-de-integridad-académica)
   - [Consideraciones Previas](#consideraciones-previas)
   - [Declaración de integridad académica](#declaración-de-integridad-académica)
@@ -74,6 +75,10 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 ## Evaluaciones
 
 El curso consta de una parte teórica, evaluada mediante evaluaciones escritas (interrogaciones), y una parte práctica, evaluada mediante tareas de programación en C.
+
+### Hoja de Notas
+
+Las notas se encuentran publicadas [en esta hoja](https://docs.google.com/spreadsheets/d/1eqca4mtOo9R36QUSgPMC0kaLS6bBPldTffzWm39pwPs).
 
 ### Evaluaciones Escritas
 
