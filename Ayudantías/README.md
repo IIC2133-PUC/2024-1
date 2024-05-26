@@ -4,6 +4,8 @@ Hola! De haber algo que queramos que notes sobre las ayudantías lo dejaremos ac
 
 Recuerda que todas las dudas que tengas acá las puedes canalizar a través la sección Preguntas materia en [discussions](https://github.com/orgs/IIC2133-PUC/discussions)
 
+## INTERROGACIÓN 1
+
 ### Taller C (parte 1)
 Se actualizó el ejemplo de la diapo 11, donde las funciones main() en cada caso estaban printeando un valor que no se correspondía con los valores dados para x e y.
 
@@ -33,6 +35,9 @@ De las anteriores, recomendamos para T0:
 - [Link](https://youtu.be/khHI49RlkEM) a la cápsula.
 - [Apuntes](https://github.com/IIC2133-PUC/2024-1/tree/main/Ayudant%C3%ADas/Material%20Extra/Quicksort) utlizados en la cáspula (que no son el ppt jj)
 
+
+
+## INTERROGACIÓN 2
 
 ### Greedy y Programación dinámica
 
