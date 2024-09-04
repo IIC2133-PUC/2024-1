@@ -1,6 +1,10 @@
 # Material Complementario
 
+# Referencias
 - [Grabaciones Clases 2021-2](https://www.youtube.com/playlist?list=PLgIrOsyBCImpDQu30UKrMVSRHf3gW2gKb)
+- [Text Guía Introduction to Algorithms](https://ebookcentral.proquest.com/lib/puccl-ebooks/detail.action?docID=3339142)
+- [Visualización de Algoritmos Visualgo](https://visualgo.net/en)
+- [Visualización de Algoritmos David Gales]([https://visualgo.net/en](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html))
 
 
 ## Talleres fundamentos de C
